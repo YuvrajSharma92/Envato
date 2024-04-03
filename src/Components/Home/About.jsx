@@ -12,8 +12,8 @@ export default function About() {
             <div className='w-[90%] py-6 mx-6'>
               <img className='w-[90%] pl-4 rounded-2xl' src="https://charite-nextjs.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout1.a17e5ea9.jpg&w=384&q=75" alt="" />
             </div>
-            <div className='lg:mt-16 mt-3 sm:ml-3'>
-              <img className='w-[90%] rounded-2xl ' src="https://charite-nextjs.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout2.4d825a81.jpg&w=384&q=75" alt="" />
+            <div className='lg:mt-16 mt-3 sm:ml-3 pl-4'>
+              <img className='w-[80%] sm:w-[90%]  rounded-2xl ' src="https://charite-nextjs.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabout2.4d825a81.jpg&w=384&q=75" alt="" />
             </div>
             <div className='bg-white w-[100%] text-center rounded-xl h-[100px] my-4 ml-6 hidden sm:hidden md:block'>
               <p className='text-[20px] font-semibold'>We Complet 15000 + Projects</p>
