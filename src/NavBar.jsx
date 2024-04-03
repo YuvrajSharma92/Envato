@@ -13,11 +13,11 @@ export default function NavBar() {
       <div className='w-[20%] h-[50px] hidden sm:hidden md:block'>
         <p className='text-white p-3'><span className='text-red-700 '>HI,</span>Good Afternoon Dude!</p>
       </div>
-      <div className='w-[20%] h-[50px] hidden sm:hidden md:block'>
+      <div className='w-[20%] h-[50px]'>
       <p className='text-white p-3'><span className='text-red-800'><i class="bi bi-geo-alt-fill"></i></span>Shiloh, Hawaii 81063</p>
       </div>
 
-      <div className='w-[50%] h-[50px] text-white'>
+      <div className='w-[50%] h-[50px] text-white hidden sm:hidden md:block'>
       <p className='p-3 flex justify-end gap-3 '> Follow Us- <span>
       <i className="bi bi-facebook"> </i>
       <i className="bi bi-twitter"> </i>
